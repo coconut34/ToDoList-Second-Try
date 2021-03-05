@@ -1,0 +1,25 @@
+
+.col-6{
+  margin: auto;
+}
+
+.row
+{padding:  0px 5px 10px 0px;
+display: flex;
+}
+
+.colorCategory {
+  color: #ea0b0b;
+}
+
+.nameCategory:hover {
+  cursor: pointer;
+  background: #e8efed;
+}
+
+.linkCategory:active,
+.linkCategory,
+.linkCategory:hover{
+  color:black;
+  text-decoration: none;
+}
